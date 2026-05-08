@@ -1,1 +1,1 @@
-print("ez az elso repositatory-m")
+print("ez a masodik repositatory-m")
